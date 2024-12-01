@@ -3,6 +3,7 @@ body{
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+/* Prenavbar-started */
 .prenavbar{
     background-color: #279EFF;
 ;
@@ -25,3 +26,4 @@ body{
 .fa-facebook-f,.fa-instagram,.fa-youtube,.fa-linkedin-in,.fa-telegram-plane{
     color: black;
 }
+/* PreNavbar-completed */
