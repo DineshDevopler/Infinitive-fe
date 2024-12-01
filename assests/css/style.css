@@ -1,0 +1,27 @@
+body{   
+    margin:0px;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.prenavbar{
+    background-color: #279EFF;
+;
+    width: 100%;
+}
+.col-sm{
+    padding: 7px;
+    text-align: center;
+}
+.fa-phone{
+   font-size: 12px;
+}
+.phone-number,.location-content,.facebook-content{
+    color: white;
+    font-size: 12px;
+}
+.fa-map-marker-alt,.fa-facebook-f{
+    font-size: 13px;
+}
+.fa-facebook-f,.fa-instagram,.fa-youtube,.fa-linkedin-in,.fa-telegram-plane{
+    color: black;
+}
